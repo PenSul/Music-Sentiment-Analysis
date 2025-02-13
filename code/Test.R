@@ -5,5 +5,3 @@ Data_Frame <- data.frame (
 )
 
 length(Data_Frame)
-
-print("Hello World")
