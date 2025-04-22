@@ -1,0 +1,16 @@
+Version: 1.0
+ProjectId: d944dfc6-35f0-4725-8916-3e3979272ec1
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 4
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+ProjectName: Music Sentiment Analysis
